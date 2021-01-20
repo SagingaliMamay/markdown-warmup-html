@@ -1,6 +1,9 @@
 h3 {
-  color:aquamarine;
+  color:rgb(60, 228, 172);
 }
 h1 {
-  style="color:blue;"
+  style ="color:blue;"
+}
+p {
+  color: red;
 }
